@@ -26,6 +26,5 @@ chmod 777 WAG
 
 ## :telephone_receiver: Admin Contact Information
 
-- **Telegram**: [Group](https://t.me/wag_hub_group)
 - **Facebook**: [FaRis WajDan](https://www.facebook.com/profile.php?id=100006949756631)
 - **Online Support**: [Telegram](https://t.me/ceo_wag_hub)
